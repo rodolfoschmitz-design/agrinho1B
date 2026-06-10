@@ -1,3 +1,16 @@
 header{
     background-color: rgb(#B3FF00);
+    color: white;
+     text: align:center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+}
+
+main{
+    background-color: #B3FF00;
+    color: black;
+    text: align:center;
+    max-width: 800px;
+    margin: 0 auto;
 }
